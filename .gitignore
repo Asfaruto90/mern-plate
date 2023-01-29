@@ -1,0 +1,5 @@
+# ignore env file
+.env
+/client/build
+/client/node_modules
+/node_modules
