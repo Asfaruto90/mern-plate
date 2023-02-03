@@ -18,14 +18,12 @@
   },
   "homepage": "https://github.com/H4Ik3n90/fill-paper#readme",
   "dependencies": {
-    "@prisma/client": "^4.9.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
     "mongodb": "^4.13.0",
-    "nodemon": "^2.0.19",
-    "prisma": "^4.9.0",
-    "vite": "^4.0.4"
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.19"
   },
   "devDependencies": {}
 }

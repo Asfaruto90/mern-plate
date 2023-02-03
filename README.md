@@ -5,3 +5,11 @@
 </font>
 
 ## 
+
+<font>
+    db.createUser({
+        user: "test",
+        pwd: "12345",
+        roles: ["readWrite","dbAdmin"]
+    });
+</font>

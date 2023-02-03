@@ -1,10 +1,10 @@
-// some dependencies
+// import some dependencies
 const express = require('express');
 const cors = require('cors');
 const mongodb = require('mongodb');
 
-// some file
-const router = require('./routes/UserRoute');
+// import some file
+const router = require('./routes/userRoute');
 const db = require('./config/database');
 require('dotenv').config()
 
